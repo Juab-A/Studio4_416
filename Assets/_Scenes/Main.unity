@@ -2177,6 +2177,7 @@ MonoBehaviour:
   toUpdate: {fileID: 1194961188}
   coinTextContainer: {fileID: 1438193748}
   duration: 0.4
+  animationCurve: 8
 --- !u!1 &1194961186
 GameObject:
   m_ObjectHideFlags: 0
